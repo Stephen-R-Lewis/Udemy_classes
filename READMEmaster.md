@@ -1,0 +1,1 @@
+This is just an over all formality for my notes that i want to take about the overall class set up and originization. This is for the totality and peobably will have a readme for each assignment for note taking and self discussion
